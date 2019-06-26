@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## Intro
 
-Hi there
+Hi there, this is an intro
 
 ## How to cont
 
